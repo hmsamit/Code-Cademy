@@ -1,0 +1,13 @@
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\UNDERSTANDING LOGIC IN C#_3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\UNDERSTANDING LOGIC IN C#_3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\UNDERSTANDING LOGIC IN C#_3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\UNDERSTANDING LOGIC IN C#_3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\UNDERSTANDING LOGIC IN C#_3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\UNDERSTANDING LOGIC IN C#_3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\UNDERSTANDING LOGIC IN C#_3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\UNDERSTANDING LOGIC IN C#_3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\UNDERSTANDING LOGIC IN C#_3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\UNDERSTANDING LOGIC IN C#_3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\UNDERSTANDING LOGIC IN C#_3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\UNDERSTANDING LOGIC IN C#_3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\UNDERSTANDING LOGIC IN C#_3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
