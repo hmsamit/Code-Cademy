@@ -8,32 +8,48 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             // Lets the user enter their password 
-            Console.Write("Please enter your desired password: ");
+            Console.Write("Please enter your desired password:");
             string password = Console.ReadLine();
-            Console.Clear();
+            
 
             // Lets the user know that the password is already declared
-            Console.WriteLine("Password already declared");
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine("Password already declared..........\n");
+
 
             //Checks a password if it has uppercase letters and doesn’t include symbols
             bool ContainsUpperLetter = password.Any(char.IsUpper);
             bool ContainSymbol = password.Any(char.IsSymbol); // need to put using System.Linq; 
-
+            Console.ForegroundColor = ConsoleColor.Yellow;
             if (ContainsUpperLetter == true)
             {
-                Console.WriteLine("Your password is strong!");
+                Console.WriteLine("\n+-----------------------------+");
+                Console.WriteLine("|   Your password is strong!  |");
+                Console.WriteLine("+-----------------------------+");
+                if (ContainSymbol == true)
+                {
+                    Console.Clear();
+                    Console.WriteLine("\n+-----------------------------+");
+                    Console.WriteLine("|   Your password is strong!  |");
+                    Console.WriteLine("+-----------------------------+");
+                    if (ContainsUpperLetter && ContainSymbol) // nested loop
+                    {
+                        Console.Clear();
+                        Console.ForegroundColor = ConsoleColor.Green;
+                        Console.WriteLine("\n+-----------------------------+");
+                        Console.WriteLine("|  Your password is stronger! |");
+                        Console.WriteLine("+-----------------------------+");
+                    }
+                }
+                
             }
-            if (ContainSymbol == true)
+            else 
             {
-                Console.WriteLine("Your password is stronger!");
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.WriteLine("Sorry, seems like the password you entered is weak.\n");
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Please try again.");
             }
-            else
-            {
-                Console.WriteLine("Sorry! Try another password that is unbreakable");
-            }
-           
-
-
 
             Console.ReadKey();
         }

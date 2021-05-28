@@ -1,0 +1,13 @@
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\if else statements\IfElseStatement\IfElseStatement\bin\Debug\netcoreapp3.1\IfElseStatement.exe
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\if else statements\IfElseStatement\IfElseStatement\bin\Debug\netcoreapp3.1\IfElseStatement.deps.json
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\if else statements\IfElseStatement\IfElseStatement\bin\Debug\netcoreapp3.1\IfElseStatement.runtimeconfig.json
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\if else statements\IfElseStatement\IfElseStatement\bin\Debug\netcoreapp3.1\IfElseStatement.runtimeconfig.dev.json
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\if else statements\IfElseStatement\IfElseStatement\bin\Debug\netcoreapp3.1\IfElseStatement.dll
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\if else statements\IfElseStatement\IfElseStatement\bin\Debug\netcoreapp3.1\IfElseStatement.pdb
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\if else statements\IfElseStatement\IfElseStatement\obj\Debug\netcoreapp3.1\IfElseStatement.csprojAssemblyReference.cache
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\if else statements\IfElseStatement\IfElseStatement\obj\Debug\netcoreapp3.1\IfElseStatement.AssemblyInfoInputs.cache
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\if else statements\IfElseStatement\IfElseStatement\obj\Debug\netcoreapp3.1\IfElseStatement.AssemblyInfo.cs
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\if else statements\IfElseStatement\IfElseStatement\obj\Debug\netcoreapp3.1\IfElseStatement.csproj.CoreCompileInputs.cache
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\if else statements\IfElseStatement\IfElseStatement\obj\Debug\netcoreapp3.1\IfElseStatement.dll
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\if else statements\IfElseStatement\IfElseStatement\obj\Debug\netcoreapp3.1\IfElseStatement.pdb
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\if else statements\IfElseStatement\IfElseStatement\obj\Debug\netcoreapp3.1\IfElseStatement.genruntimeconfig.cache
