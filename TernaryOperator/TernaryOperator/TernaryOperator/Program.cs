@@ -8,6 +8,7 @@ namespace TernaryOperator
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hdajhdah");
+            Console.WriteLine("JDAKSIQIQRQKRQKQ");
         }
     }
 }
