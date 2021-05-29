@@ -1,0 +1,13 @@
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\CallAMethod\CallAMethod\CallAMethod\bin\Debug\netcoreapp3.1\CallAMethod.exe
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\CallAMethod\CallAMethod\CallAMethod\bin\Debug\netcoreapp3.1\CallAMethod.deps.json
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\CallAMethod\CallAMethod\CallAMethod\bin\Debug\netcoreapp3.1\CallAMethod.runtimeconfig.json
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\CallAMethod\CallAMethod\CallAMethod\bin\Debug\netcoreapp3.1\CallAMethod.runtimeconfig.dev.json
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\CallAMethod\CallAMethod\CallAMethod\bin\Debug\netcoreapp3.1\CallAMethod.dll
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\CallAMethod\CallAMethod\CallAMethod\bin\Debug\netcoreapp3.1\CallAMethod.pdb
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\CallAMethod\CallAMethod\CallAMethod\obj\Debug\netcoreapp3.1\CallAMethod.csprojAssemblyReference.cache
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\CallAMethod\CallAMethod\CallAMethod\obj\Debug\netcoreapp3.1\CallAMethod.AssemblyInfoInputs.cache
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\CallAMethod\CallAMethod\CallAMethod\obj\Debug\netcoreapp3.1\CallAMethod.AssemblyInfo.cs
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\CallAMethod\CallAMethod\CallAMethod\obj\Debug\netcoreapp3.1\CallAMethod.csproj.CoreCompileInputs.cache
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\CallAMethod\CallAMethod\CallAMethod\obj\Debug\netcoreapp3.1\CallAMethod.dll
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\CallAMethod\CallAMethod\CallAMethod\obj\Debug\netcoreapp3.1\CallAMethod.pdb
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\CallAMethod\CallAMethod\CallAMethod\obj\Debug\netcoreapp3.1\CallAMethod.genruntimeconfig.cache
