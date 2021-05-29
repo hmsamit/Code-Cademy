@@ -1,0 +1,4 @@
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\ANoteOnParameters\ANoteOnParameters\ANoteOnParameters\obj\Debug\netcoreapp3.1\ANoteOnParameters.csprojAssemblyReference.cache
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\ANoteOnParameters\ANoteOnParameters\ANoteOnParameters\obj\Debug\netcoreapp3.1\ANoteOnParameters.AssemblyInfoInputs.cache
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\ANoteOnParameters\ANoteOnParameters\ANoteOnParameters\obj\Debug\netcoreapp3.1\ANoteOnParameters.AssemblyInfo.cs
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\ANoteOnParameters\ANoteOnParameters\ANoteOnParameters\obj\Debug\netcoreapp3.1\ANoteOnParameters.csproj.CoreCompileInputs.cache

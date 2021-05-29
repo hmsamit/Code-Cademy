@@ -1,0 +1,13 @@
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\DefineParameters\DefineParameters\DefineParameters\bin\Debug\netcoreapp3.1\DefineParameters.exe
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\DefineParameters\DefineParameters\DefineParameters\bin\Debug\netcoreapp3.1\DefineParameters.deps.json
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\DefineParameters\DefineParameters\DefineParameters\bin\Debug\netcoreapp3.1\DefineParameters.runtimeconfig.json
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\DefineParameters\DefineParameters\DefineParameters\bin\Debug\netcoreapp3.1\DefineParameters.runtimeconfig.dev.json
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\DefineParameters\DefineParameters\DefineParameters\bin\Debug\netcoreapp3.1\DefineParameters.dll
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\DefineParameters\DefineParameters\DefineParameters\bin\Debug\netcoreapp3.1\DefineParameters.pdb
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\DefineParameters\DefineParameters\DefineParameters\obj\Debug\netcoreapp3.1\DefineParameters.csprojAssemblyReference.cache
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\DefineParameters\DefineParameters\DefineParameters\obj\Debug\netcoreapp3.1\DefineParameters.AssemblyInfoInputs.cache
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\DefineParameters\DefineParameters\DefineParameters\obj\Debug\netcoreapp3.1\DefineParameters.AssemblyInfo.cs
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\DefineParameters\DefineParameters\DefineParameters\obj\Debug\netcoreapp3.1\DefineParameters.csproj.CoreCompileInputs.cache
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\DefineParameters\DefineParameters\DefineParameters\obj\Debug\netcoreapp3.1\DefineParameters.dll
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\DefineParameters\DefineParameters\DefineParameters\obj\Debug\netcoreapp3.1\DefineParameters.pdb
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\DefineParameters\DefineParameters\DefineParameters\obj\Debug\netcoreapp3.1\DefineParameters.genruntimeconfig.cache
