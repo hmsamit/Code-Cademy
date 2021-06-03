@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Amit, HeizelMae_Assessment6/1.0.0": {
+        "runtime": {
+          "Amit, HeizelMae_Assessment6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Amit, HeizelMae_Assessment6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

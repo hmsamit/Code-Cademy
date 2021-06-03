@@ -3,6 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Amit__HeizelMae_Assessment6</RootNamespace>
   </PropertyGroup>
 
 </Project>
