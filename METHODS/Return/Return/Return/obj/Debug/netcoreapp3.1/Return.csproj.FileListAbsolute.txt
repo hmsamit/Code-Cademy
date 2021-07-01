@@ -1,0 +1,13 @@
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\Return\Return\Return\bin\Debug\netcoreapp3.1\Return.exe
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\Return\Return\Return\bin\Debug\netcoreapp3.1\Return.deps.json
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\Return\Return\Return\bin\Debug\netcoreapp3.1\Return.runtimeconfig.json
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\Return\Return\Return\bin\Debug\netcoreapp3.1\Return.runtimeconfig.dev.json
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\Return\Return\Return\bin\Debug\netcoreapp3.1\Return.dll
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\Return\Return\Return\bin\Debug\netcoreapp3.1\Return.pdb
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\Return\Return\Return\obj\Debug\netcoreapp3.1\Return.csprojAssemblyReference.cache
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\Return\Return\Return\obj\Debug\netcoreapp3.1\Return.AssemblyInfoInputs.cache
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\Return\Return\Return\obj\Debug\netcoreapp3.1\Return.AssemblyInfo.cs
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\Return\Return\Return\obj\Debug\netcoreapp3.1\Return.csproj.CoreCompileInputs.cache
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\Return\Return\Return\obj\Debug\netcoreapp3.1\Return.dll
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\Return\Return\Return\obj\Debug\netcoreapp3.1\Return.pdb
+C:\Users\AMIT\Desktop\PROGRAMMING C#\Code Cademy\METHODS\Return\Return\Return\obj\Debug\netcoreapp3.1\Return.genruntimeconfig.cache

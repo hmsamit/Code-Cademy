@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AMIT\\Desktop\\PROGRAMMING C#\\Code Cademy\\if else statements\\SwitchStatement\\SwitchStatement\\SwitchStatement\\SwitchStatement.csproj",
+      "projectUniqueName": "C:\\Users\\AMIT\\Desktop\\PROGRAMMING C#\\Code Cademy\\LOGIC AND CONDITIONAL STATEMENTS\\SwitchStatement\\SwitchStatement\\SwitchStatement\\SwitchStatement.csproj",
       "projectName": "SwitchStatement",
-      "projectPath": "C:\\Users\\AMIT\\Desktop\\PROGRAMMING C#\\Code Cademy\\if else statements\\SwitchStatement\\SwitchStatement\\SwitchStatement\\SwitchStatement.csproj",
+      "projectPath": "C:\\Users\\AMIT\\Desktop\\PROGRAMMING C#\\Code Cademy\\LOGIC AND CONDITIONAL STATEMENTS\\SwitchStatement\\SwitchStatement\\SwitchStatement\\SwitchStatement.csproj",
       "packagesPath": "C:\\Users\\AMIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AMIT\\Desktop\\PROGRAMMING C#\\Code Cademy\\if else statements\\SwitchStatement\\SwitchStatement\\SwitchStatement\\obj\\",
+      "outputPath": "C:\\Users\\AMIT\\Desktop\\PROGRAMMING C#\\Code Cademy\\LOGIC AND CONDITIONAL STATEMENTS\\SwitchStatement\\SwitchStatement\\SwitchStatement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,8 +14,8 @@ namespace ReviewMethodCallsAndInput
         {
             NamePets("Kami", "Kobe");
             NamePets("Cooper", "Kitty ", "Kobe");
-            VisitPlanets(numberOfPlanets: 4);
-            ///asfasfafasadsadfafafafasffdsf
+            VisitPlanets(numberOfPlanets :4);
+            
         }
 
         static void NamePets()
