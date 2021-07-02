@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AMIT\\OneDrive - addu.edu.ph\\PROGRAMMING C#\\Code Cademy\\DATA TYPES AND VARIABLES\\Building Strings\\New folder\\PrideAndPrejudice\\PrideAndPrejudice\\PrideAndPrejudice.csproj",
-      "projectName": "PrideAndPrejudice",
-      "projectPath": "C:\\Users\\AMIT\\OneDrive - addu.edu.ph\\PROGRAMMING C#\\Code Cademy\\DATA TYPES AND VARIABLES\\Building Strings\\New folder\\PrideAndPrejudice\\PrideAndPrejudice\\PrideAndPrejudice.csproj",
+      "projectUniqueName": "C:\\Users\\AMIT\\OneDrive - addu.edu.ph\\PROGRAMMING C#\\Code Cademy\\DATA TYPES AND VARIABLES\\Working with text\\String Concatenation\\StoryTime\\StoryTime\\StoryTime\\StoryTime.csproj",
+      "projectName": "StoryTime",
+      "projectPath": "C:\\Users\\AMIT\\OneDrive - addu.edu.ph\\PROGRAMMING C#\\Code Cademy\\DATA TYPES AND VARIABLES\\Working with text\\String Concatenation\\StoryTime\\StoryTime\\StoryTime\\StoryTime.csproj",
       "packagesPath": "C:\\Users\\AMIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AMIT\\OneDrive - addu.edu.ph\\PROGRAMMING C#\\Code Cademy\\DATA TYPES AND VARIABLES\\Building Strings\\New folder\\PrideAndPrejudice\\PrideAndPrejudice\\obj\\",
+      "outputPath": "C:\\Users\\AMIT\\OneDrive - addu.edu.ph\\PROGRAMMING C#\\Code Cademy\\DATA TYPES AND VARIABLES\\Working with text\\String Concatenation\\StoryTime\\StoryTime\\StoryTime\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

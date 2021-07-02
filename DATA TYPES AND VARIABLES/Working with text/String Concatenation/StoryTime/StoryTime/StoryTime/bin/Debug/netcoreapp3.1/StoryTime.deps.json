@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "PrideAndPrejudice/1.0.0": {
+      "StoryTime/1.0.0": {
         "runtime": {
-          "PrideAndPrejudice.dll": {}
+          "StoryTime.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "PrideAndPrejudice/1.0.0": {
+    "StoryTime/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,0 +1,13 @@
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Working with text\String Concatenation\StoryTime\StoryTime\StoryTime\bin\Debug\netcoreapp3.1\StoryTime.exe
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Working with text\String Concatenation\StoryTime\StoryTime\StoryTime\bin\Debug\netcoreapp3.1\StoryTime.deps.json
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Working with text\String Concatenation\StoryTime\StoryTime\StoryTime\bin\Debug\netcoreapp3.1\StoryTime.runtimeconfig.json
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Working with text\String Concatenation\StoryTime\StoryTime\StoryTime\bin\Debug\netcoreapp3.1\StoryTime.runtimeconfig.dev.json
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Working with text\String Concatenation\StoryTime\StoryTime\StoryTime\bin\Debug\netcoreapp3.1\StoryTime.dll
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Working with text\String Concatenation\StoryTime\StoryTime\StoryTime\bin\Debug\netcoreapp3.1\StoryTime.pdb
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Working with text\String Concatenation\StoryTime\StoryTime\StoryTime\obj\Debug\netcoreapp3.1\StoryTime.csprojAssemblyReference.cache
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Working with text\String Concatenation\StoryTime\StoryTime\StoryTime\obj\Debug\netcoreapp3.1\StoryTime.AssemblyInfoInputs.cache
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Working with text\String Concatenation\StoryTime\StoryTime\StoryTime\obj\Debug\netcoreapp3.1\StoryTime.AssemblyInfo.cs
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Working with text\String Concatenation\StoryTime\StoryTime\StoryTime\obj\Debug\netcoreapp3.1\StoryTime.csproj.CoreCompileInputs.cache
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Working with text\String Concatenation\StoryTime\StoryTime\StoryTime\obj\Debug\netcoreapp3.1\StoryTime.dll
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Working with text\String Concatenation\StoryTime\StoryTime\StoryTime\obj\Debug\netcoreapp3.1\StoryTime.pdb
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Working with text\String Concatenation\StoryTime\StoryTime\StoryTime\obj\Debug\netcoreapp3.1\StoryTime.genruntimeconfig.cache
