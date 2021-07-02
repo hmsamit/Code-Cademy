@@ -1,0 +1,13 @@
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Building Strings\New folder\PrideAndPrejudice\PrideAndPrejudice\bin\Debug\netcoreapp3.1\PrideAndPrejudice.exe
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Building Strings\New folder\PrideAndPrejudice\PrideAndPrejudice\bin\Debug\netcoreapp3.1\PrideAndPrejudice.deps.json
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Building Strings\New folder\PrideAndPrejudice\PrideAndPrejudice\bin\Debug\netcoreapp3.1\PrideAndPrejudice.runtimeconfig.json
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Building Strings\New folder\PrideAndPrejudice\PrideAndPrejudice\bin\Debug\netcoreapp3.1\PrideAndPrejudice.runtimeconfig.dev.json
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Building Strings\New folder\PrideAndPrejudice\PrideAndPrejudice\bin\Debug\netcoreapp3.1\PrideAndPrejudice.dll
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Building Strings\New folder\PrideAndPrejudice\PrideAndPrejudice\bin\Debug\netcoreapp3.1\PrideAndPrejudice.pdb
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Building Strings\New folder\PrideAndPrejudice\PrideAndPrejudice\obj\Debug\netcoreapp3.1\PrideAndPrejudice.csprojAssemblyReference.cache
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Building Strings\New folder\PrideAndPrejudice\PrideAndPrejudice\obj\Debug\netcoreapp3.1\PrideAndPrejudice.AssemblyInfoInputs.cache
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Building Strings\New folder\PrideAndPrejudice\PrideAndPrejudice\obj\Debug\netcoreapp3.1\PrideAndPrejudice.AssemblyInfo.cs
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Building Strings\New folder\PrideAndPrejudice\PrideAndPrejudice\obj\Debug\netcoreapp3.1\PrideAndPrejudice.csproj.CoreCompileInputs.cache
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Building Strings\New folder\PrideAndPrejudice\PrideAndPrejudice\obj\Debug\netcoreapp3.1\PrideAndPrejudice.dll
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Building Strings\New folder\PrideAndPrejudice\PrideAndPrejudice\obj\Debug\netcoreapp3.1\PrideAndPrejudice.pdb
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Building Strings\New folder\PrideAndPrejudice\PrideAndPrejudice\obj\Debug\netcoreapp3.1\PrideAndPrejudice.genruntimeconfig.cache
