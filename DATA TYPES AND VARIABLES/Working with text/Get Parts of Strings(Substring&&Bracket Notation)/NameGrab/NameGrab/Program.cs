@@ -7,8 +7,9 @@ namespace NameGrab
         static void Main(string[] args)
         {  /*
             string plantName = "Heizel Mae S. Amit";
-            int charPosition = plantName.IndexOf("t"); // returns 15
-            char u = plantName[charPosition]; // returns u
+            int charPosition = plantName.IndexOf("t"); // returns 14
+            char u = plantName[charPosition]; // returns t
+           
             */
             string name = "Farhad Hesam Abbasi";
             int firstName = name.IndexOf("F");
