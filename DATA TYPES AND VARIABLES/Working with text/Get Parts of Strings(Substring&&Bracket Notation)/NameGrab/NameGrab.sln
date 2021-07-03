@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameGrab", "NameGrab\NameGrab.csproj", "{169F3C69-C4DE-4240-B0CD-9AF8BD5732A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{169F3C69-C4DE-4240-B0CD-9AF8BD5732A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169F3C69-C4DE-4240-B0CD-9AF8BD5732A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169F3C69-C4DE-4240-B0CD-9AF8BD5732A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169F3C69-C4DE-4240-B0CD-9AF8BD5732A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3BD4E82-320E-4A1A-87CA-B82D8ACD1564}
+	EndGlobalSection
+EndGlobal

@@ -7,7 +7,7 @@ namespace PasswordCheck
         static void Main(string[] args)
         {
                  // Create password
-                 string password = "!!a92301j2add";
+                 string password = "a92301j2add";
 
                 // Get password length
                  int passwordLength = password.Length;
