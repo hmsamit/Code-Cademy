@@ -1,0 +1,7 @@
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\LOGIC AND CONDITIONAL STATEMENTS\LogicalOperators\LogicalOperators\LogicalOperators\bin\Debug\LogicalOperators.exe.config
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\LOGIC AND CONDITIONAL STATEMENTS\LogicalOperators\LogicalOperators\LogicalOperators\bin\Debug\LogicalOperators.exe
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\LOGIC AND CONDITIONAL STATEMENTS\LogicalOperators\LogicalOperators\LogicalOperators\bin\Debug\LogicalOperators.pdb
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\LOGIC AND CONDITIONAL STATEMENTS\LogicalOperators\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.csprojAssemblyReference.cache
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\LOGIC AND CONDITIONAL STATEMENTS\LogicalOperators\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\LOGIC AND CONDITIONAL STATEMENTS\LogicalOperators\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.exe
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\LOGIC AND CONDITIONAL STATEMENTS\LogicalOperators\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.pdb
