@@ -1,0 +1,7 @@
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Working with text\MoneyMakerActivity\MoneyMaker\MoneyMaker\obj\Debug\MoneyMaker.csprojAssemblyReference.cache
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Working with text\MoneyMakerActivity\MoneyMaker\MoneyMaker\obj\Debug\MoneyMaker.csproj.CoreCompileInputs.cache
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Working with text\MoneyMakerActivity\MoneyMaker\MoneyMaker\bin\Debug\MoneyMaker.exe.config
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Working with text\MoneyMakerActivity\MoneyMaker\MoneyMaker\bin\Debug\MoneyMaker.exe
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Working with text\MoneyMakerActivity\MoneyMaker\MoneyMaker\bin\Debug\MoneyMaker.pdb
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Working with text\MoneyMakerActivity\MoneyMaker\MoneyMaker\obj\Debug\MoneyMaker.exe
+C:\Users\AMIT\OneDrive - addu.edu.ph\PROGRAMMING C#\Code Cademy\DATA TYPES AND VARIABLES\Working with text\MoneyMakerActivity\MoneyMaker\MoneyMaker\obj\Debug\MoneyMaker.pdb
